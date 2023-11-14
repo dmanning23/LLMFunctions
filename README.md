@@ -1,9 +1,7 @@
-# LangChainMongoDB
+# LLMFunctions
 
-This is a test repo integrating LangChain and MongoDB
+This is a test project showing how to use LLM functions with the OpenAI API.
 
-Loads the US Constitution into a MongoDB vector datastore and allows the user to chat with the document.
+Follow along at:
 
-Follow the steps at:
-
-https://python.langchain.com/docs/integrations/vectorstores/mongodb_atlas
+https://www.datacamp.com/tutorial/open-ai-function-calling-tutorial
